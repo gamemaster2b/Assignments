@@ -14,4 +14,5 @@ int main(){
         con = (val-32) / 1.8;
         printf("%f degrees Fahrenheit = %f degrees Celcius", val, con);
     }
+    return 0;
 }
